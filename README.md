@@ -2,7 +2,7 @@ Hello, I'm Guretskiy Semyon, and welcome to my GitHub of study projects! Below y
 
 # Projects
 
-1.[Final Project](https://github.com/guretskiysemyon/k-coloringReduction) - This project implements reductions from the k-color graph problem to satisfiability issues in arithmetic
+1. [Final Project](https://github.com/guretskiysemyon/k-coloringReduction) - This project implements reductions from the k-color graph problem to satisfiability issues in arithmetic
 and arrays as described by Roberto Sebastiani in "Colors Make Theories Hard." Utilizing pysmt and cvc5, it provides algorithms for graph coloring challenges.
 
 2.  [Arkanoid Game](https://github.com/guretskiysemyon/ArkanoidGame) - This project is a well-known 80s-90s game called Arkanoid. It was created as part of an OOP Introduction Course and is written in Java.
